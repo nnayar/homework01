@@ -1,0 +1,26 @@
+{
+  "name": "madlibshomewrok",
+  "version": "1.0.0",
+  "description": "My First JS Homework",
+  "main": "madlibs.js",
+  "dependencies": {
+    "madlibs": "*",
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "lodash": "*",
+    "morgan": "*",
+    "chance": "*",
+    "stochastic": "*",
+    "randgen": "*",
+    "request": "*",
+    "util": "*",
+    "simple-oauth2": "*"
+  },
+  "author": "nitin nayar",
+  "license": "ISC",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
